@@ -11,6 +11,7 @@ export default function App() {
         <a
           href="https://www.shecodes.io/graduates/117675-mackenzie-baird"
           target="_blank"
+          rel="noreferrer"
         >
           Mackenzie Baird
         </a>

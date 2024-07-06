@@ -5,7 +5,7 @@ import Search from "./Search";
 export default function App() {
   return (
     <div className="App">
-      <Weather />
+      <Weather defaultCity="edinburgh" />
       <Search />
       <footer>
         This project was coded by{" "}

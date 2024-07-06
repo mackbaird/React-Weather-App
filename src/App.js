@@ -1,12 +1,10 @@
 import "./Styles.css";
 import Weather from "./Weather";
-import Search from "./Search";
 
 export default function App() {
   return (
     <div className="App">
       <Weather defaultCity="edinburgh" />
-      <Search />
       <footer>
         This project was coded by{" "}
         <a

@@ -35,6 +35,7 @@
   margin-right: 10px;
   position: static;
   line-height: normal;
+  width: 72px;
 }
 
 .Weather .temperature {
